@@ -1,0 +1,99 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <body>
+            <h1>my hotel</h1>
+            <table border="1" cellpadding="8" cellspacing="0">
+                <tr>
+                    <th>sl no</th>
+                    <th>name</th>
+                    <th>image</th>
+                    <th>price</th>
+                    <th>quantity</th>
+                    <th>rating</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>biryani</td>
+                    <td><img src="https://feastwithsafiya.com/wp-content/uploads/2021/09/easy-chicken-biryani.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>120</td>
+                    <td>300gm</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>2</td>
+                    <td>gobi</td>
+                    <td><img src="https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian6.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>150</td>
+                    <td>100gm</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>3</td>
+                    <td>chicken 65</td>
+                    <td><img src="https://yeyfood.com/wp-content/uploads/2024/11/WEB1deep-fried_chicken_in_the_style_of_Kerala_cuisine__ddc13945-71e6-4825-aeb4-3344c9a8c07a_2.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>120</td>
+                    <td>100gm</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>4</td>
+                    <td>idly</td>
+                    <td><img src="https://www.dosahut.net.au/wp-content/uploads/2018/08/Idly-the-Best-Breakfast.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>50</td>
+                    <td>5</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>5</td>
+                    <td>dosa</td>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg/250px-Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>60</td>
+                    <td>1</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>6</td>
+                    <td>vada</td>
+                    <td><img src="https://www.chefkunalkapur.com/wp-content/uploads/2021/06/Medu-Vada-1300x867.jpg?v=1623509746alt="Frontal Lobe" width="120"></td>
+                    <td>40</td>
+                    <td>2</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>7</td>
+                    <td>puri</td>
+                    <td><img src="https://cdn1.foodviva.com/static-content/food-images/roti-paratha-recipes/masala-puri-recipe/masala-puri-recipe.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>60</td>
+                    <td>3</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>8</td>
+                    <td>tamato rice</td>
+                    <td><img src="https://c.ndtvimg.com/2024-05/3rl1ke0g_tomato-rice_625x300_06_May_24.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350"alt="Frontal Lobe" width="120"></td>
+                    <td>120</td>
+                    <td>1</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>9</td>
+                    <td>curd rice</td>
+                    <td><img src="https://i0.wp.com/www.chitrasfoodbook.com/wp-content/uploads/2013/12/curd-rice-plate.jpg?w=1200&ssl=1"alt="Frontal Lobe" width="120"></td>
+                    <td>120</td>
+                    <td>1</td>
+                    <td>5 tamato</td>
+                </tr>
+                 <tr>
+                    <td>10</td>
+                    <td>upma</td>
+                    <td><img src="https://myfoodstory.com/wp-content/uploads/2022/11/Vegetable-Upma-2.jpg"alt="Frontal Lobe" width="120"></td>
+                    <td>120</td>
+                    <td>1</td>
+                    <td>5 tamato</td>
+                </tr>
+                
+            </table>
+        </body>
+    </head>
+</html>
