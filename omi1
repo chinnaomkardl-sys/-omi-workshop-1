@@ -1,0 +1,18 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <body>
+            <h1><u>hospital</u></h1>
+            <h2><strong>welcome to hospital!</strong></h2>
+            <h3><i>the hospital is very good to see</i></h3>
+            <small>cleaning is very poor</small>
+            <br>
+            <del>there are more then patiens in the hospital</del><ins>facing problem</ins>
+            <br>
+            <mark>hospital billing</mark>
+            <p>h<sub>2</sub>o</p>
+            <h4>&copy;doctor omi </h4>
+
+        </body>
+    </head>
+</html>
