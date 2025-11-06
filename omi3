@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <header>
+                <h1>my web page</h1>
+                <nav>
+                    <ul>
+                        <h2>Ordered List with Anchor Tags</h2>
+                        <ol>
+                            <li><a href="omi.html">home</a></li>
+                            <li><a href="omi1.html">deatils</a></li>
+                            <li><a href="omi2.html">menu</a></li>
+                        </ol>
+                    </ul>
+                </nav>
+            </header>
+            <main>
+                <section>
+                    <h3>my fav movie</h3>
+                    <ul>
+                        <li>OG</li>
+                        <li>Kushi</li>
+                        <li>hhvm</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>my fav food</h3>
+                    <ul>
+                        <li>Dosa</li>
+                        <li>Vada</li>
+                        <li>Biryani</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>my fav place</h3>
+                    <ul>
+                        <li>AP</li>
+                        <li>badrinath</li>
+                        <li>kerala</li>
+                    </ul>
+                </section>
+                <aside>
+                    <h3>Ads</h3>
+                    <ul>
+                        <li><a href="#">og</a></li>
+                        <li><a href="#">og2</a></li>
+                    </ul>
+                </aside>
+            </main>
+            <footer>
+                <p>Author: OMI<br>
+                    <a href="mailto:neeabba@gmail.com">neeabba@gmail.com</a></p>
+            </footer>
+        </body>
+</html>
